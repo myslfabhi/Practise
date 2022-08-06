@@ -1,5 +1,5 @@
 package TestNg;
-//do it
+//do it now
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
