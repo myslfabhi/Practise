@@ -32,7 +32,7 @@ public class contact extends Base64 {
 		String BROWSER=fLib.getPropertyKeyValue("browser");
 		String URL=fLib.getPropertyKeyValue("url");
 		String USERNAME=fLib.getPropertyKeyValue("username");
-		String PASSWORD=fLib.getPropertyKeyValue("password");
+		String PASSWORD=fLib.getPropertyKeyValue("password");//
 		
 	//setting up browser
 	WebDriverManager.chromedriver().setup();
