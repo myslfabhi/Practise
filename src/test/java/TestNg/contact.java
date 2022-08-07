@@ -20,7 +20,7 @@ import com.crm.vtiger.objectRepository.LoginPage;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class contact extends Base64 {
-	@Test(groups="SmokeTest")//not done
+	@Test(groups="SmokeTest")//not done//
 	public void main() throws IOException {
 		JavaUtility jLib=new JavaUtility();
 		ExcelUtility eLib=new ExcelUtility();
